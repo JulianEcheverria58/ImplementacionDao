@@ -1,7 +1,5 @@
 package dao;
 
-import Model.Actor;
-
-public class ActorDAO extends AbstractDAO<Actor> {
+public class ActorDAO extends AbstractDAO<model.Actor> {
     // Puedes añadir métodos específicos para ActorDAO si es necesario
 }
